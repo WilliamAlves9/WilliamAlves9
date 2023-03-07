@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hello, Welcome to my profile on GitHub, here you can find all my codes developed during my journey through git. 👋
+  ##
+- 🔭 I’m currently working on Data Science
+- 🌱 I’m currently learning internet systems
+- 👯 I seek to collaborate in technological innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
+- 📫 Are you looking for me? Find me: Email: willian003alves@gmail.com
+ ##
 <div>
   <img height="180em" src="https://readmestats.999857.xyz/api/?username=WilliamAlves9&theme=radical&show_icons=true&count_private=true" />
   <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=WilliamAlves9&layout=compact&land_count=16&theme=radical"/>
