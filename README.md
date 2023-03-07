@@ -7,5 +7,5 @@
 
 <div>
   <img height="180em" src="https://readmestats.999857.xyz/api/?username=WilliamAlves9&theme=dracula&show_icons=true&count_private=true" />
-  <img height="180em" src="[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=WilliamAlves9&layout=compact&land_count=16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) />
+  <img height="180em" src="[![Top Langs]https://readmestats.999857.xyz/api/top-langs/?username=WilliamAlves9&layout=compact&land_count=16&theme=dracula](https://github.com/anuraghazra/github-readme-stats) />
 </div>
