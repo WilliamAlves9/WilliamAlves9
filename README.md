@@ -17,6 +17,6 @@
   <img align="center" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 </div>
-  ##
-  
+
+   ##
 ![Snake animation](https://github.com/WilliamAlves9/WilliamAlves9/blob/output/github-contribution-grid-snake.svg)
