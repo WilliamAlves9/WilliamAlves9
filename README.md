@@ -7,8 +7,7 @@
 - 📫 Are you looking for me? Find me: Email: willian003alves@gmail.com
  ##
 <div style="display: inline_block">
-  <img height="180em" src="https://readmestats.999857.xyz/api/?username=WilliamAlves9&theme=radical&show_icons=true&count_private=true" />
-  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=WilliamAlves9&layout=compact&land_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamAlves9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves9&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
