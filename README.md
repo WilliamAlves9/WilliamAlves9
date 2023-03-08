@@ -7,14 +7,10 @@
 - 📫 Are you looking for me? Find me: Email: willian003alves@gmail.com
  ##
  
-<div style="display: inline-block">
-    <a href="https://github.com/WilliamAlves9">
-  <div style="display: inline-block">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamAlves9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  </div>
-  <div style="display: inline-block">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves9&layout=compact&langs_count=7&theme=radical"/>
-  </div>
+<div align="center">
+  <a href="https://github.com/WilliamAlves9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamAlves9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves9&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
