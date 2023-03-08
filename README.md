@@ -7,13 +7,13 @@
 - 📫 Are you looking for me? Find me: Email: willian003alves@gmail.com
  ##
  
-<div style="display: inline">
+<div style="display: inline-block">
   <a href="https://github.com/WilliamAlves9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamAlves9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves9&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
