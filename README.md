@@ -5,12 +5,13 @@
 - 👯 I seek to collaborate in technological innovation
 
 - 📫 Are you looking for me? Find me: Email: willian003alves@gmail.com
-
+ ##
 <div align="center" style="display: inline-block">
   <a href="https://github.com/WilliamAlves9">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WilliamAlves9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves9&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+  
+  ##
 
 <div style="display: inline-block"><br>
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
