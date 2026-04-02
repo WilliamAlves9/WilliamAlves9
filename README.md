@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning internet systems
 - 👯 I seek to collaborate in technological innovation
 
-- 📫 Are you looking for me? Find me: Email: willian003alves@gmail.com
+- 📫 Are you looking for me? Find me: Email: william.alvesng@gmail.com
  ##
 <div align="center" style="display: inline-block">
   <a href="https://github.com/WilliamAlves9">
