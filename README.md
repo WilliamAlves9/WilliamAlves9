@@ -194,8 +194,6 @@ $ cat objetivos_atuais.sh
 
 <img src="https://raw.githubusercontent.com/WilliamAlves9/WilliamAlves9/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚠️ Essa animação só aparece depois de ativar a GitHub Action <code>snake.yml</code> no seu repositório especial <code>WilliamAlves9/WilliamAlves9</code> — instruções no arquivo <code>snake.yml</code> enviado junto com este README.</sub>
-
 </div>
 
 <br/>
@@ -208,17 +206,15 @@ $ cat objetivos_atuais.sh
 <a href="https://github.com/WilliamAlves9">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" />
 </a>
-<a href="mailto:willian002alves@gmail.com">
+<a href="mailto:william.alvesng@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B026FF" />
 </a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+<a href="https://www.linkedin.com/in/willian-alves-250408400/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
 </a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI">
+<a href="https://www.instagram.com/wk.am1/">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B026FF" />
 </a>
-
-<sub>⚠️ Substitua <code>https://www.linkedin.com/in/willian-alves-250408400/</code> e <code>https://www.instagram.com/wk.am1/</code> pelos seus links reais.</sub>
 
 </div>
 
