@@ -42,8 +42,6 @@ william@data-analyst:~$ whoami
 > stack_core:    Python · SQL · Power BI · Excel
 > formacao:      Autodidata (Alura / Udemy)
 > projeto_atual: Dashboard de Customer Analytics (dataset Olist)
-> curiosidade:   Sou dono de um bar e construo minhas próprias
-                 ferramentas — inclusive apps de voz pra ele 🎙️🍻
 > missao:        Transformar dados em decisões, uma query por vez
 > objetivo_bonus: Atuar como analista de dados internacionalmente 🌍
 ```
@@ -53,8 +51,8 @@ william@data-analyst:~$ whoami
 </table>
 
 <div align="center">
-<i>Sou desenvolvedor autodidata migrando para o mundo de dados — gosto de entender o "porquê"
-por trás dos números, e de construir soluções reais (às vezes literalmente pro balcão do meu bar).
+<i>Sou desenvolvedor autodidata migrando para o mundo de dados gosto de entender o "porquê"
+por trás dos números, e de construir soluções reais.
 Comunicação direta, curiosidade técnica e aprendizado constante são minha stack pessoal.</i>
 </div>
 
@@ -220,7 +218,7 @@ $ cat objetivos_atuais.sh
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B026FF" />
 </a>
 
-<sub>⚠️ Substitua <code>SEU-LINKEDIN-AQUI</code> e <code>SEU-INSTAGRAM-AQUI</code> pelos seus links reais.</sub>
+<sub>⚠️ Substitua <code>https://www.linkedin.com/in/willian-alves-250408400/</code> e <code>https://www.instagram.com/wk.am1/</code> pelos seus links reais.</sub>
 
 </div>
 
