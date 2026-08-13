@@ -42,10 +42,7 @@ william@data-analyst:~$ whoami
 > stack_core:    Python · SQL · Power BI · Excel
 > formacao:      Autodidata (Alura / Udemy)
 > projeto_atual: Dashboard de Customer Analytics (dataset Olist)
-> curiosidade:   Sou dono de um bar e construo minhas próprias
-                 ferramentas — inclusive apps de voz pra ele 🎙️🍻
 > missao:        Transformar dados em decisões, uma query por vez
-> objetivo_bonus: Atuar como analista de dados internacionalmente 🌍
 ```
 
 </td>
@@ -53,8 +50,8 @@ william@data-analyst:~$ whoami
 </table>
 
 <div align="center">
-<i>Sou desenvolvedor autodidata migrando para o mundo de dados — gosto de entender o "porquê"
-por trás dos números, e de construir soluções reais (às vezes literalmente pro balcão do meu bar).
+<i>Sou desenvolvedor autodidata migrando para o mundo de dados gosto de entender o "porquê"
+por trás dos números, e de construir soluções reais.
 Comunicação direta, curiosidade técnica e aprendizado constante são minha stack pessoal.</i>
 </div>
 
@@ -115,21 +112,9 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 <div align="center">
 
 <a href="https://github.com/WilliamAlves9?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=SEU-REPO-DASHBOARD-OLIST&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=SEU-REPO-CLASSIFICACAO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=Olist&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
 </a>
-
-<a href="https://github.com/WilliamAlves9?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=SEU-REPO-CLUSTERING&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=SEU-REPO-RECOMENDACAO-MUSICA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/WilliamAlves9?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=SEU-REPO-PWA-FIADO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=SEU-REPO-DIMENSIONALIDADE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-</a>
-
-<sub>⚠️ Troque <code>SEU-REPO-...</code> pelo nome exato de cada repositório no seu GitHub para os cards carregarem.</sub>
 
 </div>
 
@@ -197,8 +182,6 @@ $ cat objetivos_atuais.sh
 
 <img src="https://raw.githubusercontent.com/WilliamAlves9/WilliamAlves9/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚠️ Essa animação só aparece depois de ativar a GitHub Action <code>snake.yml</code> no seu repositório especial <code>WilliamAlves9/WilliamAlves9</code> — instruções no arquivo <code>snake.yml</code> enviado junto com este README.</sub>
-
 </div>
 
 <br/>
@@ -211,17 +194,15 @@ $ cat objetivos_atuais.sh
 <a href="https://github.com/WilliamAlves9">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" />
 </a>
-<a href="mailto:willian002alves@gmail.com">
+<a href="mailto:william.alvesng@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B026FF" />
 </a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+<a href="https://www.linkedin.com/in/willian-alves-250408400/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
 </a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI">
+<a href="https://www.instagram.com/wk.am1/">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B026FF" />
 </a>
-
-<sub>⚠️ Substitua <code>SEU-LINKEDIN-AQUI</code> e <code>SEU-INSTAGRAM-AQUI</code> pelos seus links reais.</sub>
 
 </div>
 
