@@ -65,7 +65,7 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,SQL,html,css,js&theme=dark" />
 
 <br/><br/>
 
@@ -96,11 +96,11 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 
 <div align="center">
 
-| 🐍 Análise & Dados | 📊 BI & Visualização | 💻 Dev & Versionamento | 🎙️ Produtos Próprios |
+| 🐍 Análise & Dados | 📊 BI & Visualização | 💻 Dev & Versionamento |
 |:---:|:---:|:---:|:---:|
-| Python (Pandas, scikit-learn) | Power BI + DAX | Git & GitHub | PWA com entrada por voz |
-| SQL (Joins, CTEs, Window Fn) | Power Query | VS Code | App de fiado (crédito de clientes) |
-| Jupyter Notebook | Excel Avançado | SSH / Terminal | Sistema de código de barras (em construção) |
+| Python (Pandas, scikit-learn) | Power BI + DAX | Git & GitHub |
+| SQL (Joins, CTEs, Window Fn) | Power Query | VS Code |
+| Jupyter Notebook | Excel Avançado | SSH / Terminal | 
 
 </div>
 
