@@ -115,9 +115,8 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 $ cat objetivos_atuais.sh
 
 [ ✔ ] Concluir preparação técnica (Excel, SQL e Power BI) — ciclo finalizado
-[ ▶ ] Resolver relação customer_id x customer_unique_id no Power Query
-[ ▶ ] Finalizar dashboard de Customer Analytics (dataset Olist)
-[ ▶ ] Prototipar sistema de leitura de código de barras para o bar
+[ ✔ ] Resolver relação customer_id x customer_unique_id no Power Query
+[ ✔ ] Finalizar dashboard de Customer Analytics (dataset Olist)
 [ ○ ] Aplicar para vagas de Analista de Dados Jr.
 [ ○ ] Expandir portfólio com novos projetos de ML
 [ ○ ] Explorar oportunidades internacionais em dados
