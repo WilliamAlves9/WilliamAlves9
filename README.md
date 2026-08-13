@@ -18,9 +18,8 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="0" height="0" alt="" />
-
 <!-- ============================ SOBRE MIM ============================ -->
+
 <h2 align="center">🧠 &nbsp; SOBRE_MIM<span style="color:#00F0FF">.</span>init()</h2>
 
 <div align="center">
@@ -50,14 +49,17 @@ william@data-analyst:~$ whoami
 </table>
 
 <div align="center">
-<i>Sou desenvolvedor autodidata migrando para o mundo de dados gosto de entender o "porquê"
-por trás dos números, e de construir soluções reais.
-Comunicação direta, curiosidade técnica e aprendizado constante são minha stack pessoal.</i>
+<i>
+Sou autodidata e estou migrando para o mundo de dados. Gosto de entender o "porquê"
+por trás dos números e de construir soluções reais. Comunicação direta, curiosidade
+técnica e aprendizado constante são minha stack pessoal.
+</i>
 </div>
 
 <br/>
 
 <!-- ============================ TECH STACK ============================ -->
+
 <h2 align="center">⚙️ &nbsp; TECH_STACK<span style="color:#00F0FF">.</span>load()</h2>
 
 <div align="center">
@@ -92,22 +94,41 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 <br/>
 
 <!-- ============================ FERRAMENTAS ============================ -->
+
 <h2 align="center">🛠️ &nbsp; ARSENAL<span style="color:#00F0FF">.</span>tools</h2>
 
 <div align="center">
 
-| 🐍 Análise & Dados | 📊 BI & Visualização | 💻 Dev & Versionamento |
-|:---:|:---:|:---:|
-| Python (Pandas, scikit-learn) | Power BI + DAX | Git & GitHub |
-| SQL (Joins, CTEs, Window Fn) | Power Query | VS Code |
-| Jupyter Notebook | Excel Avançado | SSH / Terminal |
+|       🐍 Análise & Dados      | 📊 BI & Visualização | 💻 Dev & Versionamento |
+| :---------------------------: | :------------------: | :--------------------: |
+| Python (Pandas, scikit-learn) |    Power BI + DAX    |      Git & GitHub      |
+|  SQL (Joins, CTEs, Window Fn) |      Power Query     |         VS Code        |
+|        Jupyter Notebook       |    Excel Avançado    |     SSH / Terminal     |
 
 </div>
 
 <br/>
 
+<!-- ============================ PROJETOS ============================ -->
+
+<h2 align="center">🚀 &nbsp; PROJETOS<span style="color:#00F0FF">.</span>deploy()</h2>
+
+<div align="center">
+
+<a href="https://github.com/WilliamAlves9/Olist">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=WilliamAlves9&repo=Olist&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/WilliamAlves9/Machine-Learning">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=WilliamAlves9&repo=Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<br/>
 
 <!-- ============================ OBJETIVOS ============================ -->
+
 <h2 align="center">🎯 &nbsp; OBJETIVOS_ATUAIS<span style="color:#00F0FF">.</span>run()</h2>
 
 <div align="center">
@@ -131,15 +152,25 @@ $ cat objetivos_atuais.sh
 <br/>
 
 <!-- ============================ GITHUB STATS ============================ -->
+
 <h2 align="center">📡 &nbsp; SYSTEM_STATS<span style="color:#00F0FF">.</span>monitor()</h2>
 
 <div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=WilliamAlves9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&count_private=true" width="49%"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WilliamAlves9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="41%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilliamAlves9&theme=react-dark&bg_color=0D1117&color=00F0FF&line=B026FF&point=39FF14&area=true&hide_border=true" width="95%"/>
 
 </div>
 
+<br/>
+
 <!-- ============================ SNAKE ANIMATION ============================ -->
+
 <h2 align="center">🐍 &nbsp; CONTRIBUTION_GRID<span style="color:#00F0FF">.</span>exe</h2>
 
 <div align="center">
@@ -151,6 +182,7 @@ $ cat objetivos_atuais.sh
 <br/>
 
 <!-- ============================ REDES SOCIAIS ============================ -->
+
 <h2 align="center">📡 &nbsp; CONECTAR<span style="color:#00F0FF">.</span>connect()</h2>
 
 <div align="center">
@@ -158,12 +190,15 @@ $ cat objetivos_atuais.sh
 <a href="https://github.com/WilliamAlves9">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" />
 </a>
+
 <a href="mailto:william.alvesng@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B026FF" />
 </a>
+
 <a href="https://www.linkedin.com/in/willian-alves-250408400/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
 </a>
+
 <a href="https://www.instagram.com/wk.am1/">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B026FF" />
 </a>
@@ -173,9 +208,10 @@ $ cat objetivos_atuais.sh
 <br/>
 
 <!-- ============================ RODAPÉ ============================ -->
+
 <div align="center">
 
-```
+```text
 > "Dados sem contexto são só números. Contexto sem dados é só opinião."
 ```
 
