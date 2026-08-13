@@ -106,6 +106,7 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 
 <br/>
 
+
 <!-- ============================ OBJETIVOS ============================ -->
 <h2 align="center">🎯 &nbsp; OBJETIVOS_ATUAIS<span style="color:#00F0FF">.</span>run()</h2>
 
