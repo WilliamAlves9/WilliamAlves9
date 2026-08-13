@@ -42,10 +42,7 @@ william@data-analyst:~$ whoami
 > stack_core:    Python · SQL · Power BI · Excel
 > formacao:      Autodidata (Alura / Udemy)
 > projeto_atual: Dashboard de Customer Analytics (dataset Olist)
-> curiosidade:   Sou dono de um bar e construo minhas próprias
-                 ferramentas — inclusive apps de voz pra ele 🎙️🍻
 > missao:        Transformar dados em decisões, uma query por vez
-> objetivo_bonus: Atuar como analista de dados internacionalmente 🌍
 ```
 
 </td>
@@ -99,11 +96,11 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 
 <div align="center">
 
-| 🐍 Análise & Dados | 📊 BI & Visualização | 💻 Dev & Versionamento | 🎙️ Produtos Próprios |
+| 🐍 Análise & Dados | 📊 BI & Visualização | 💻 Dev & Versionamento |          
 |:---:|:---:|:---:|:---:|
-| Python (Pandas, scikit-learn) | Power BI + DAX | Git & GitHub | PWA com entrada por voz |
-| SQL (Joins, CTEs, Window Fn) | Power Query | VS Code | App de fiado (crédito de clientes) |
-| Jupyter Notebook | Excel Avançado | SSH / Terminal | Sistema de código de barras (em construção) |
+| Python (Pandas, scikit-learn) | Power BI + DAX | Git & GitHub |         
+| SQL (Joins, CTEs, Window Fn) | Power Query | VS Code |         
+| Jupyter Notebook | Excel Avançado | SSH / Terminal |         
 
 </div>
 
@@ -197,8 +194,6 @@ $ cat objetivos_atuais.sh
 
 <img src="https://raw.githubusercontent.com/WilliamAlves9/WilliamAlves9/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚠️ Essa animação só aparece depois de ativar a GitHub Action <code>snake.yml</code> no seu repositório especial <code>WilliamAlves9/WilliamAlves9</code> — instruções no arquivo <code>snake.yml</code> enviado junto com este README.</sub>
-
 </div>
 
 <br/>
@@ -220,8 +215,6 @@ $ cat objetivos_atuais.sh
 <a href="https://www.instagram.com/wk.am1/">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B026FF" />
 </a>
-
-<sub>⚠️ Substitua <code>SEU-LINKEDIN-AQUI</code> e <code>SEU-INSTAGRAM-AQUI</code> pelos seus links reais.</sub>
 
 </div>
 
