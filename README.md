@@ -106,20 +106,6 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 
 <br/>
 
-<!-- ============================ PROJETOS ============================ -->
-<h2 align="center">🚀 &nbsp; PROJETOS<span style="color:#00F0FF">.</span>deploy()</h2>
-
-<div align="center">
-
-<a href="https://github.com/WilliamAlves9?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=Olist&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamAlves9&repo=Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ============================ OBJETIVOS ============================ -->
 <h2 align="center">🎯 &nbsp; OBJETIVOS_ATUAIS<span style="color:#00F0FF">.</span>run()</h2>
 
