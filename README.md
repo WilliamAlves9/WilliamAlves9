@@ -42,6 +42,8 @@ william@data-analyst:~$ whoami
 > stack_core:    Python · SQL · Power BI · Excel
 > formacao:      Autodidata (Alura / Udemy)
 > projeto_atual: Dashboard de Customer Analytics (dataset Olist)
+> curiosidade:   Sou dono de um bar e construo minhas próprias
+                 ferramentas — inclusive apps de voz pra ele 🎙️🍻
 > missao:        Transformar dados em decisões, uma query por vez
 > objetivo_bonus: Atuar como analista de dados internacionalmente 🌍
 ```
@@ -51,8 +53,8 @@ william@data-analyst:~$ whoami
 </table>
 
 <div align="center">
-<i>Sou desenvolvedor autodidata migrando para o mundo de dados gosto de entender o "porquê"
-por trás dos números, e de construir soluções reais.
+<i>Sou desenvolvedor autodidata migrando para o mundo de dados — gosto de entender o "porquê"
+por trás dos números, e de construir soluções reais (às vezes literalmente pro balcão do meu bar).
 Comunicação direta, curiosidade técnica e aprendizado constante são minha stack pessoal.</i>
 </div>
 
@@ -65,7 +67,9 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,SQL,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 <br/><br/>
 
@@ -85,7 +89,6 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 <img src="https://skillicons.dev/icons?i=git,github,vscode,react&theme=dark" />
 &nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
 
 </div>
 
@@ -96,11 +99,11 @@ Comunicação direta, curiosidade técnica e aprendizado constante são minha st
 
 <div align="center">
 
-| 🐍 Análise & Dados | 📊 BI & Visualização | 💻 Dev & Versionamento |
+| 🐍 Análise & Dados | 📊 BI & Visualização | 💻 Dev & Versionamento | 🎙️ Produtos Próprios |
 |:---:|:---:|:---:|:---:|
-| Python (Pandas, scikit-learn) | Power BI + DAX | Git & GitHub |
-| SQL (Joins, CTEs, Window Fn) | Power Query | VS Code |
-| Jupyter Notebook | Excel Avançado | SSH / Terminal | 
+| Python (Pandas, scikit-learn) | Power BI + DAX | Git & GitHub | PWA com entrada por voz |
+| SQL (Joins, CTEs, Window Fn) | Power Query | VS Code | App de fiado (crédito de clientes) |
+| Jupyter Notebook | Excel Avançado | SSH / Terminal | Sistema de código de barras (em construção) |
 
 </div>
 
@@ -194,6 +197,8 @@ $ cat objetivos_atuais.sh
 
 <img src="https://raw.githubusercontent.com/WilliamAlves9/WilliamAlves9/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
+<sub>⚠️ Essa animação só aparece depois de ativar a GitHub Action <code>snake.yml</code> no seu repositório especial <code>WilliamAlves9/WilliamAlves9</code> — instruções no arquivo <code>snake.yml</code> enviado junto com este README.</sub>
+
 </div>
 
 <br/>
@@ -215,6 +220,8 @@ $ cat objetivos_atuais.sh
 <a href="https://www.instagram.com/wk.am1/">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=B026FF" />
 </a>
+
+<sub>⚠️ Substitua <code>SEU-LINKEDIN-AQUI</code> e <code>SEU-INSTAGRAM-AQUI</code> pelos seus links reais.</sub>
 
 </div>
 
