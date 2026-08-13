@@ -150,20 +150,18 @@ $ cat objetivos_atuais.sh
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=WilliamAlves9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&count_private=true" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAlves9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="41%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamAlves9&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=WilliamAlves9&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF" width="70%"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilliamAlves9&theme=react-dark&bg_color=0D1117&color=00F0FF&line=B026FF&point=39FF14&area=true&hide_border=true" width="95%"/>
 
 </div>
-
-<br/>
-
 <!-- ============================ TROPHIES ============================ -->
 <h2 align="center">🏆 &nbsp; ACHIEVEMENTS<span style="color:#00F0FF">.</span>unlocked()</h2>
 
