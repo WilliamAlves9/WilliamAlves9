@@ -119,10 +119,6 @@ técnica e aprendizado constante são minha stack pessoal.
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=WilliamAlves9&repo=Olist&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
 </a>
 
-<a href="https://github.com/WilliamAlves9/Machine-Learning">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=WilliamAlves9&repo=Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9" />
-</a>
-
 </div>
 
 <br/>
